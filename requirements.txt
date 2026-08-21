@@ -1,0 +1,9 @@
+SpeechRecognition
+gTTS
+PyAudio
+wikipedia
+pyjokes
+coqui-tts==0.24.3
+transformers==4.46.2
+torch==2.5.1
+torchaudio==2.5.1
